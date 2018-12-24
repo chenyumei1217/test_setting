@@ -1,5 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","test_network.Test_Netword.test_3G","11227",""
-"passed","test_display.Test_Netword.test_search[1]","16030",""
-"passed","test_network.Test_Netword.test_2G","11558",""
-"passed","test_display.Test_Netword.test_search[2]","15994",""
