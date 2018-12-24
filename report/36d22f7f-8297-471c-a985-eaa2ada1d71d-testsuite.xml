@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1545640031908" stop="1545640066339">
+  <name>test_display</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1545640031908" status="passed" stop="1545640047938">
+      <name>Test_Netword.test_search[1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9092-MainThread"/>
+        <label name="host" value="PC-20180717ZLAY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1545640039780" status="passed" stop="1545640047937">
+          <name>测试设置页的搜索步骤</name>
+          <title>测试设置页的搜索步骤</title>
+          <attachments>
+            <attachment source="4b0366e5-696b-4104-acf4-b659e12dcbc9-attachment.txt" title="描述1" type="text/plain"/>
+            <attachment source="f0b7a28d-f731-4dad-96e6-6a36d8d4dca2-attachment.txt" title="描述2" type="text/plain"/>
+            <attachment source="53733504-f641-4615-a877-8a192b9eeb9d-attachment.txt" title="描述3" type="text/plain"/>
+            <attachment source="0afc4901-79a4-406a-bcac-70eb1c12aef8-attachment.txt" title="描述4" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1545640050345" status="passed" stop="1545640066339">
+      <name>Test_Netword.test_search[2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9092-MainThread"/>
+        <label name="host" value="PC-20180717ZLAY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1545640058272" status="passed" stop="1545640066339">
+          <name>测试设置页的搜索步骤</name>
+          <title>测试设置页的搜索步骤</title>
+          <attachments>
+            <attachment source="84108b84-951d-4701-bbe5-f1c989f0a33b-attachment.txt" title="描述1" type="text/plain"/>
+            <attachment source="96839f9c-06f9-484d-841a-41d7fe98d538-attachment.txt" title="描述2" type="text/plain"/>
+            <attachment source="b18f9c25-7f12-43c4-a28c-b679c6f4a4e7-attachment.txt" title="描述3" type="text/plain"/>
+            <attachment source="b7ada26b-975e-480c-85ee-2ecb3cfe5905-attachment.txt" title="描述4" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
